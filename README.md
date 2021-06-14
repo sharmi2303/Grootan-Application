@@ -3,7 +3,7 @@ Objective       : Grootans can interact with our user interface.
 
 Technology used :
     HTML,CSS for front end development.
-    PHP proframming language is used for connect our front end with datbase.
+    PHP programming language is used for connect our front end with database.
     Server used : XAMPP
     Database used:phpMyAdmin
     
